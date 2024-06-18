@@ -1,1 +1,1 @@
-# tkinter-temp-demo
+# Temperature Converter Demo for `tkinter`.
